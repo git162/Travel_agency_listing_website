@@ -10,7 +10,7 @@ const Card = (res) => {
 
   return (
     <div
-      className={`h-72 w-96 bg-red-100 rounded-sm mb-8 ml-5 cursor-pointer transform transition-transform duration-300 ${
+      className={`h-72 w-96 bg-white rounded-sm mb-8 ml-5 cursor-pointer transform transition-transform duration-300 ${
         isHovered ? 'translate-y-2' : ''
       }`}
       onMouseEnter={handleMouseEnter}

@@ -2,7 +2,7 @@
 
 GoTrek is a React-based web application designed to list travel agencies, provide details about their offerings, and help users book exciting trips. It offers a user-friendly interface for browsing, comparing, and exploring travel agencies worldwide.
 
-## Features
+<!-- ## Features
 
 - Browse a list of verified travel agencies
 - Filter and search for travel agencies by location, services, and pricing
@@ -35,4 +35,4 @@ First, clone the GoTrek repository to your local machine.
 git clone https://github.com/git162/Travel_agency_listing_website.git
 cd GoTrek
 npm install
-npm run dev
+npm run dev -->

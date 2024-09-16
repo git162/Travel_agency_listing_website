@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <div>
-      <div className="h-20 fixed w-full  justify-between bg-white mt-0 flex items-center shadow-md rounded-md shadow-slate-400">
+      <div className="h-20 fixed z-20 w-full  justify-between bg-white mt-0 flex items-center shadow-md rounded-md shadow-slate-400">
         <div className="icon inline-block  ml-5">
           <h1 className="text-5xl font-bold bg-gradient-to-r from-black  to-slate-500 text-transparent bg-clip-text">
             GoTrek

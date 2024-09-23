@@ -32,7 +32,7 @@ const data = [
 
 const Container = () => {
   return (
-    <div className='bg-slate-100 w-screen h-screen flex flex-wrap justify-evenly pt-28 '>
+    <div className='bg-slate-200 w-screen h-screen flex flex-wrap pl-[9vw] pt-28 overflow-x-hidden'>
       {data.map((items,index)=>(
         <Card key={index} {...items}/>
       ))}

@@ -11,8 +11,9 @@ const Header = () => {
         </div>
         <div className="nav-links flex gap-20 mr-5 text-lg font-semibold">
           <h4>Home</h4>
-          <h4>Explore</h4>
-          <h4>Contact</h4>
+          <h4>Tours</h4>
+          <h4>Destinations</h4>
+          <h4>About</h4>
           <button className="border-2 border-slate-950 p-1 rounded-md">
             Login/Sign Up
           </button>

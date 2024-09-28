@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { CiStar } from "react-icons/ci";
 import { FaStar } from "react-icons/fa";
 
 const Card = (res) => {

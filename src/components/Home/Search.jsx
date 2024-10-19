@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useState } from "react";
 import { Calendar } from "primereact/calendar";
 
@@ -7,6 +7,7 @@ const Search = () => {
   const [outdate, setCheckout] = useState(null);
   const [dest, setDest] = useState("");
   const [keyWord, setKeyword] = useState("");
+  
   console.log("Rendering");
   return (
     <div className="flex-col justify-center rounded-md items-center  bg-slate-100 h-[30vh] w-[70vw] p-6 ml-48 mb-28 relative">

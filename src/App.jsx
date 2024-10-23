@@ -9,7 +9,7 @@ import Signup from './components/Auth/Signup'
 const App = () => {
   return (
     <div>
-      <Signup/>
+      <Signin/>
       
     </div>
   )
